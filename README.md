@@ -1,4 +1,7 @@
 # Assignment-1-UTM-Digtal-Open-Day
+## Video Link
+https://youtu.be/iww2Rkr4HVc
+
 ## 🎥What I done
 My teammate and I create a 3-5 minutes video blog visit to UTMDigital Open Day. The video include:
 - Introduction of your group and the visit
